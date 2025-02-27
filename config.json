@@ -1,0 +1,42 @@
+{
+    "token": "MTM0Mzc4MzU3Nzk0NjU1ODUzNQ.Gg3A9G.P5CJL4Ml9ZPoDZ39m_Vaj9VO_7vJ68vDKOrIRg",
+    "language": "en",
+    "prefix": "!",
+    "mongodbUri": "mongodb+srv://arnabb223:<db_password>@cluster0.ijiae.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "excessCommands": {
+        "utility": true,
+        "other": true,
+        "hentai": true,
+        "troll": true,
+        "levelling" : true,
+        "lavalink" : true,
+        "economy" : true,
+        "application" : true,
+        "birthday" : true,
+        "gaming" : true,
+        "customcommands" : true,
+        "report" : true
+    },
+    "categories": {
+        "anime": true,
+        "basic": true,
+        "utility": true,
+        "moderation": true,
+        "core" :true,
+        "lavalink": true,
+        "fun": true,
+        "distube": true,
+        "setups": true
+    },
+     "lavalink": {
+        "lavalink": {
+            "identifier": "INZEWORLD.COM (DE)",
+            "password": "saher.inzeworld.com",
+            "host": "lava.inzeworld.com",
+            "port": 3128,
+            "secure": false
+          }
+    }, 
+    "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
+    "spotifyClientSecret": "199a619d22dd4e55a4a2c1a7a3d70e63"
+}
